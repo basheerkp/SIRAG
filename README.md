@@ -1,6 +1,6 @@
 # SIRAG
 
-A domain-specific Retrieval-Augmented Generation (RAG) system designed to answer questions using Mihon's official documentation.
+A configurable self-improving RAG system combining hybrid retrieval, cross-encoder reranking, evidence-grounded generation, NLI-based faithfulness evaluation, and persistent feedback-driven memory.
 
 SIRAG combines hybrid information retrieval, LLM-based query enhancement, evidence-grounded generation, NLI-based faithfulness evaluation, and persistent feedback-driven memory.
 
